@@ -1,0 +1,20 @@
+/*======= index.html =======*/
+#page1 .col-1 {width:295px; margin-right:35px;}
+#page1 .col-2 {width:255px;}
+#page1 .col-3 {width:620px; margin-right:40px;}
+
+/*======= index-4.html =======*/
+#page5 #content {padding:20px 0 20px;}
+#page5 .col-1{width:930px;}
+
+#page5 .bg {padding:15px 0 28px;}
+#page5 .bg .padding {padding:0 20px;}
+
+/*======= index-6.html =======*/
+#page7 #content {padding:20px 0 20px;}
+#page7 .col-1{width:520px; margin-right:20px;}
+#page7 .col-2{width:380px;}
+#page7 .column-1 {width:300px; margin-right:20px;}
+#page7 .column-2 {width:300px;}
+#page7 .bg {padding:15px 0 28px;}
+#page7 .bg .padding {padding:0 20px;}
